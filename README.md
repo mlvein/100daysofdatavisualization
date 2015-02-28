@@ -6,11 +6,14 @@ This is a part of the 100 Day Project by Elle Luna
 https://thegreatdiscontent.com/interview/elle-luna-100-day-project
 starting April 6th to July 14th 2015.
 
-The goal of this project is to visualize data for 100 consecutive days. Data that would be visualized will be already
-researched and listed below to focus on input and information design through code. The goal is to improve data
-visualization skills in 100 days.
+The goal of this project is to design information, making it faster and easier to understand for 100 consecutive days.
 
---
+Design guidelines
+- created with HTML/SVG/CSS
+- easy to edit and update
+- responsive
+-
+
 001
 002
 003

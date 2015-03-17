@@ -4,16 +4,16 @@
 
 This is a part of the 100 Day Project by Elle Luna
 https://thegreatdiscontent.com/interview/elle-luna-100-day-project
-starting April 6th to July 14th 2015.
+from April 6th to July 14th 2015.
 
 
 Design guidelines
 - created with HTML/SVG/CSS
-- easy to edit and update
+- easy to edit and update (currently looking for ways to make it contributabe or to farm content from hashtags or certain variables that allow auto updating)
 - responsive
 
 
-001
+001 - Collating data on first steps (auto updating links to videos, articles, and hashtags) downside: need to filter data to specifics
 002
 003
 004
